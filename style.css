@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+.uppercase{text-transform:uppercase;}
+h1{color: red; font-size: 50pt;}
+h2{color: purple; font-size: 35pt;}
+#mission-statement{text-transform: capitalize; color:blue;}
+div{text-align: center;}
+img{width:750px;}
+p{font-size:15pt;}
