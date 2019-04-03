@@ -1,6 +1,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 50px;
+    background-color: EAD6EA;
   }
 .uppercase{text-transform:uppercase;}
 h1{color: red; font-size: 50pt;}
